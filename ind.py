@@ -103,11 +103,11 @@ def histogram(marcas, toggle):
     df_data = df.copy(deep=True)
     mask = df_data['marca'].isin(marcas)
 
-    # Crie um histograma dos valores
+    
     fig = px.histogram(df_data[mask], x='valor',y='modelo', template=templates, nbins=30)
 
     return fig
-#pizza---------------------
+
 @app.callback(
     [Output('pie_chart', 'figure')],
     Input('pizza', 'value'),
