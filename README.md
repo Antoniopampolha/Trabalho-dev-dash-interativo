@@ -10,3 +10,10 @@ Andrei Maia De souza / Aluno do Curso de engenharia da computação (CESUPA) Bel
 
 ### Requisitos
 Execute `pip install -r requerimentos.txt` para instalar as bibliotecas necessárias para o código funcionar.
+
+
+### Foi feio um dashboard interativo com base em preços da tabela fipe, o repositorio com os dados e o arquivo csv foi pego do site kaggle o link para o memsmo vai estar abaixo:
+
+https://www.kaggle.com/code/gabrielsober/tabela-fipe-carros-brasil-2023-janeiro/log
+
+### o arquivo conta com centenas de fabricantes , modelos e preços de automóveis no Brasil.
