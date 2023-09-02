@@ -17,3 +17,5 @@ Execute `pip install -r requerimentos.txt` para instalar as bibliotecas necessá
 https://www.kaggle.com/code/gabrielsober/tabela-fipe-carros-brasil-2023-janeiro/log
 
 ### o arquivo conta com centenas de fabricantes , modelos e preços de automóveis no Brasil.
+
+esse dash e a escolha dos dados tem como objetivo, ver o preço e comparar com outras fabricantes para auxilar a escolha de um carro.
