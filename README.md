@@ -10,7 +10,7 @@ Andrei Maia De souza / Aluno do Curso de engenharia da computação (CESUPA) Bel
 
 ### Requisitos
 Execute `pip install -r requerimentos.txt` para instalar as bibliotecas necessárias para o código funcionar.
-Faça a extração do arquivo tabela-fipe-historico-precos para ultilizar o arquivo csv
+Faça a extração do arquivo `tabela-fipe-historico-precos.zip` para ultilizar o arquivo csv
 
 ### Foi feio um dashboard interativo com base em preços da tabela fipe, o repositorio com os dados e o arquivo csv foi pego do site kaggle o link para o memsmo vai estar abaixo:
 
